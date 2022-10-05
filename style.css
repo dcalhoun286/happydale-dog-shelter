@@ -19,7 +19,10 @@ header {
 
 main {
   /* your code */
+  display: flex;
+  flex-flow: row wrap;
 }
+
 main nav {
   border: .1rem solid purple;
   padding: 1rem;
