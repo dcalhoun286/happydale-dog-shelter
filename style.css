@@ -41,6 +41,7 @@ main a {
 .dog-list-container {
   /* your code */
   flex-grow: 1;
+  display: flex;
 }
 
 .fluid-text {
