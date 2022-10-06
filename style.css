@@ -28,6 +28,8 @@ main nav {
   border: .1rem solid purple;
   padding: 1rem;
   /* your code */
+  display: flex;
+  flex-direction: column;
 }
 main a {
   width: 5rem;
