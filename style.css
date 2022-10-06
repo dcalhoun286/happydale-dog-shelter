@@ -40,6 +40,7 @@ main a {
 
 .dog-list-container {
   /* your code */
+  flex-grow: 1;
 }
 
 .fluid-text {
